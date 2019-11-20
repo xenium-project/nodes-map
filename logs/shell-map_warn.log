@@ -1,0 +1,6 @@
+2019-11-20 16:09:13 Failed request for https://raw.githubusercontent.com/xenium-project/xenium-nodes-json/master/nodes.json, reason: SyntaxError: Unexpected token { in JSON at position 163
+2019-11-20 16:09:13 Error seeding queue, retrying : {"url":"https://raw.githubusercontent.com/xenium-project/xenium-nodes-json/master/nodes.json"}
+2019-11-20 16:12:56 Failed request for https://raw.githubusercontent.com/xenium-project/xenium-nodes-json/master/nodes.json, reason: SyntaxError: Unexpected token { in JSON at position 163
+2019-11-20 16:12:56 Error seeding queue, retrying : {"url":"https://raw.githubusercontent.com/xenium-project/xenium-nodes-json/master/nodes.json"}
+2019-11-20 16:13:01 Failed request for https://raw.githubusercontent.com/xenium-project/xenium-nodes-json/master/nodes.json, reason: SyntaxError: Unexpected token { in JSON at position 163
+2019-11-20 16:13:01 Error seeding queue, retrying : {"url":"https://raw.githubusercontent.com/xenium-project/xenium-nodes-json/master/nodes.json"}

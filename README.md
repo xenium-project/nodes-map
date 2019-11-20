@@ -1,4 +1,6 @@
-# shell-map
+# Nodes Map
+
+### Based on the shell-map: https://github.com/DiscoTim/shell-map
 
 ## Setup
 

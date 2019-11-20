@@ -2,7 +2,7 @@
 
 const config = {};
 
-config.networkNodeListJSONurl = 'https://raw.githubusercontent.com/turtlecoin/turtlecoin-nodes-json/master/turtlecoin-nodes.json';
+config.networkNodeListJSONurl = 'https://raw.githubusercontent.com/xenium-project/xenium-nodes-json/master/nodes.json';
 
 config.serverHost = '0.0.0.0';
 
@@ -14,11 +14,11 @@ config.statsUpdateInterval = 15;
 
 config.nodeTTL = 3600;
 
-config.rpcPort = 11898;
+config.rpcPort = 32779;
 
 config.queueReseedDelay = 60;
 
-config.dnsServers = ['8.8.8.8', '8.8.4.4'];
+config.dnsServers = ['1.1.1.1', '1.0.0.1'];
 
 config.logging = {
   files: {
